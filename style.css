@@ -90,7 +90,6 @@ a:active {
   list-style: none;
 }
 
-
 @media (max-width: 960px) {
   .home-container {
     width: 700px;
